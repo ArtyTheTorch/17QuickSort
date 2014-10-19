@@ -1,0 +1,8 @@
+C:\Users\gu425d\AppData\Local\Temporary Projects\17QuickSort\bin\Debug\17QuickSort.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\17QuickSort\bin\Debug\17QuickSort.pdb
+C:\Users\gu425d\AppData\Local\Temporary Projects\17QuickSort\obj\x86\Debug\17QuickSort.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\17QuickSort\obj\x86\Debug\17QuickSort.pdb
+C:\Users\GARRET\Documents\GitHub\17QuickSort\17QuickSort\obj\x86\Debug\17QuickSort.exe
+C:\Users\GARRET\Documents\GitHub\17QuickSort\17QuickSort\obj\x86\Debug\17QuickSort.pdb
+C:\Users\GARRET\Documents\GitHub\17QuickSort\17QuickSort\bin\Debug\17QuickSort.exe
+C:\Users\GARRET\Documents\GitHub\17QuickSort\17QuickSort\bin\Debug\17QuickSort.pdb
